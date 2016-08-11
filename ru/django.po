@@ -1,0 +1,358 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-27 10:08+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "Member"
+msgstr "Участник"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Number"
+msgstr "Количество"
+
+msgid "Members"
+msgstr "Участники"
+
+msgid "Chief"
+msgstr "Командир"
+
+msgid "Commander"
+msgstr "Командующий"
+
+msgid "Executive Officer"
+msgstr "Заместитель командующего"
+
+msgid "Recruitment Officer"
+msgstr "Офицер по кадрам"
+
+msgid "Quartermaster"
+msgstr "Офицер снабжения"
+
+msgid "Intelligence Officer"
+msgstr "Офицер разведки"
+
+msgid "Combat Officer"
+msgstr "Командир подразделения"
+
+msgid "Personnel Officer"
+msgstr "Офицер штаба"
+
+msgid "Junior Officer"
+msgstr "Младший офицер"
+
+msgid "Private"
+msgstr "Боец"
+
+msgid "Recruit"
+msgstr "Новобранец"
+
+msgid "Reservist"
+msgstr "Резервист"
+
+msgid "Member of clan:"
+msgstr "Состоит в клане:"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Clan"
+msgstr "Клан"
+
+msgid "Hi"
+msgstr "Привет"
+
+msgid "Sign out"
+msgstr "Выйти"
+
+msgid "Sign in"
+msgstr "Войти"
+
+msgid "Russia"
+msgstr "Россия"
+
+msgid "North America"
+msgstr "Северная Америка"
+
+msgid "Europe"
+msgstr "Европа"
+
+msgid "Southeast Asia"
+msgstr "Юго-Восточная Азия"
+
+msgid "Management"
+msgstr "Управление"
+
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Account"
+msgstr "Аккаунт"
+
+msgid "Account settings"
+msgstr "Настройки аккаунта"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Email address"
+msgstr "Email адрес"
+
+msgid "today"
+msgstr "сегодня"
+
+msgid "joined to this group"
+msgstr "присоединился к этой группе"
+
+msgid "Invite link"
+msgstr "Ссылка-приглашение"
+
+msgid "Hi there, I am WotClansBot."
+msgstr "Привет, я WotClansBot."
+
+msgid "command works in group."
+msgstr "команда работает в группе."
+
+msgid "It shows members of group, who dont have access."
+msgstr "Она покажет участников группы, которые не должны иметь доступа."
+
+msgid "Unknown WG account"
+msgstr "Неизвестный аккаунт WG"
+
+msgid "The following participants should not have access to this group"
+msgstr "Следующие участники не должны иметь доступа к группе"
+
+msgid "Nothing suspicious found."
+msgstr "Ничего подозрительного не найдено."
+
+msgid "I'm chat bot for telegram group of the WorldOfTanks clan."
+msgstr "Я чат-бот групп Telegram для кланов WorldOfTanks."
+
+msgid "I need to know your Wargaming account."
+msgstr "Мне нужно знать ваш аккаунт Wargaming"
+
+msgid "I can moderate chat for your clan, if you are will be a member."
+msgstr "Я могу модерировать чат вашего клана, если вы вступите в клан."
+
+msgid "Please follow this link to accept your invite"
+msgstr "Перейдите по этой ссылке, чтобы принять приглашение"
+
+msgid "Join to chat"
+msgstr "Присоединиться к чату"
+
+msgid "I can ensure that only members of your clan were present in the your Telegram group."
+msgstr "Я могу следить за тем, чтобы только участники вашего клана присцтствовали в этой группе Telegram."
+
+msgid "Let's start"
+msgstr "Давайте начнем"
+
+msgid "This chat joined to your Wargaming account."
+msgstr "Этот чат подключен к вашему аккаунту Wargaming."
+
+msgid "Please follow this link to setup this chat settings."
+msgstr "Перейдите по этой ссылке для настройки чата."
+
+msgid "Chat settings"
+msgstr "Настройки чата"
+
+msgid "Wargaming account"
+msgstr "аккаунт Wargaming"
+
+msgid "don't have access to this chat."
+msgstr "не имеет доступа к этому чату."
+
+msgid "Can't find Wargaming account for Telegram user"
+msgstr "Не могу найти аккаунт Wargaming для этого пользователя Telegram"
+
+msgid "Your Telegram account now connected to your Wargaming account"
+msgstr "Ваш аккаунт Telegram подключен к вашему аккаунту Wargaming"
+
+msgid "Those Wargaming accounts were disconnected from your Telegram account"
+msgstr "Эти аккаунты Wargaming были отключены от вашего аккаунта Telegram"
+
+msgid "World of Tanks clan chat telebot"
+msgstr "Чат-бот Telegram для кланов World of Tanks"
+
+msgid "World of Tanks and Wargaming.net are registered trademarks or trademarks of Wargaming.net LLP."
+msgstr "World of Tanks и Wargaming.net являются зарегистрированными торговыми марками Wargaming.net LLP."
+
+msgid "This website is in no way associated with Wargaming.net"
+msgstr "Этот сайт никак не связан с Wargaming.net."
+
+msgid "Read more about <a target='_blank' href='http://worldoftanks.com/news/1840-wargamingnet-id-now-live/'>Wargaming.net OpenID authentication</a>."
+msgstr "Подробнее об авторизации по протоколу OpenID вы можете прочитать в <a href='http://forum.worldoftanks.ru/index.php?/topic/487842-wargamingnet-openid-%D0%B7%D0%B0%D0%BF%D1%83%D1%89%D0%B5%D0%BD-%D0%B2-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%BC-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5/#top#top'>данной теме</a> на официальном форуме World of tanks."
+
+msgid "Telegram group"
+msgstr "Группа Telegram"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Cancel"
+msgstr "Отказ"
+
+msgid "I'm a Telegram chat bot."
+msgstr "Я чат-бот Telegram"
+
+msgid "Sign in with my Wargaming account"
+msgstr "Войти с вашим аккаунтом Wargaming"
+
+msgid "Wargaming login"
+msgstr "Вход через Wargaming"
+
+msgid "Where is your account of World Of Tanks has been registered?"
+msgstr "Где зарегистрирован ваш аккаунт World Of Tanks?"
+
+msgid "You add me to the follow Telegram's chats"
+msgstr "Вы подключили меня к следующим чатам Telegram"
+
+msgid "Add the another one Telegram chat for moderating"
+msgstr "Добавить еще один чат Telegram"
+
+msgid "Let's choose the Telegram chat for moderating"
+msgstr "Давайте выберем чат Telegram для модерирования"
+
+msgid "Select Telegram group"
+msgstr "Выбрать группу Telegram"
+
+msgid "You are not a clan member of World of Tanks and can not create Telegram chat, linked to Wargaming clan."
+msgstr "Вы не состоите в клана World of Tanks и не можете создать чат Telegram, связанный с кланом Wargaming."
+
+msgid "Join Wargaming clan"
+msgstr "Присоединиться к клану Wargaming"
+
+msgid "There is some problem."
+msgstr "Хьюстон, у нас проблема!"
+
+msgid "You are was kicked from this chat some time ago."
+msgstr "Некоторое время назад вы были удалены из этого чата."
+
+msgid "I'm dont have admin rights in this chat and i can't unban you."
+msgstr "У меня нет полномочий администратора группы, чтобы разбанить вас."
+
+msgid "You need to request chat admins."
+msgstr "Вам нужно запросить администраторов этого чата."
+
+msgid "Sorry, but your dont have access to this chat."
+msgstr "К сожалению, у вас нет доступа к этому чату."
+
+msgid "Invite to Telegram group"
+msgstr "Приглашение в группу Telegram"
+
+msgid "I'm need to check your Wargaming account for join you to this chat."
+msgstr "Мне нужно проверить ваш аккаунт Wargaming, чтобы добавить вас в этот чат."
+
+msgid "You are already have a membership in this chat."
+msgstr "Вы уже являетесь участником этого чата."
+
+msgid "Go to chat"
+msgstr "Перейти в чат"
+
+msgid "Lets join your Telegram and Wargaming accounts."
+msgstr "Давайте свяжем между собой ваши аккаунты Telegram и Wargaming."
+
+msgid "Click on 'Join Telegram account' button, then, in Telegram chat, click on 'Start' button."
+msgstr "Кликните кнопку 'Подключить аккаунт Telegram', затем в чате Telegram кликните по кнопке 'Start'"
+
+msgid "Join Telegram account"
+msgstr "Подключить аккаунт Telegram"
+
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+msgid "Click button bellow to join a chat."
+msgstr "Кликните по кнопке ниже для подключения к чату."
+
+msgid "Telegram chat bot for World of Tanks clans"
+msgstr "Чат-бот Telegram для кланов World of Tanks"
+
+msgid "Nothing found for substring"
+msgstr "Ничего не найдено для подстроки"
+
+msgid "Length of search string must be 3 chars as minimum"
+msgstr "Длина строки для поиска должна быть 3 символа минимум"
+
+msgid "Use this link to invite new members to this group"
+msgstr "Используйте эту ссылку для приглашения новых участников в группу"
+
+msgid "First, chat admin must set up invite link here"
+msgstr "Сначала администратор чата должен настроить пригласительную ссылку здесь"
+
+msgid "Hi there, I am WorldOfTanksClanBot."
+msgstr "Привет, я WorldOfTanksClanBot."
+
+msgid "I am intended for clans of WorldOfTanks online game."
+msgstr "Я сделан для кланов онлайн игры WorldOfTanks."
+
+msgid "I am can ensure that only members of your clan will present in the your Telegram group."
+msgstr "Я могу следить за тем, чтобы только участники вашего клана присутствовали в вашей группе Telegram."
+
+msgid "You can control me by sending these commands:"
+msgstr "Вы можете управлять мной при помощи следующих команд:"
+
+msgid "/help - brief info and command list"
+msgstr "/help - краткая информация и список команд"
+
+msgid "/check - show suspicious members of the group"
+msgstr "/check - показать подозрительных участников группы"
+
+msgid "/whois - show WG account for members with 'text' in Telegram name"
+msgstr "/whois - показать данные аккаунта Wargaming для участника группы, в имени которого присутствует подстрока 'text'"
+
+msgid "/invite - invite link for new members"
+msgstr "/invite - ссылка для приглашения новых участников в группу"
+
+msgid "Enter part of name of group member (at least 3 chars)"
+msgstr "Введите часть имени участника группы (3 символа как минимум)"
+
+msgid "Unsupported language"
+msgstr "Неподдерживаемый язык"
+
+msgid "Success!"
+msgstr "Успех!"
+
+msgid "Language of group set to"
+msgstr "Установлен язык группы"
+
+msgid "Language set to"
+msgstr "Установлен язык"
+
+msgid "Choose language for this group."
+msgstr "Выберите язык для этой группы."
+
+msgid "Current language is "
+msgstr "Текущий язык "
+
+msgid "Only group administrators can change language of group"
+msgstr "Только администраторы группы могут менять язык группы"
+
+msgid "Choose language for private chat with me."
+msgstr "Выберите язык на котором мы будем общаться."
+
+msgid "You can help to learn me to speak on your native language."
+msgstr "Вы можете помочь научить меня разговаривать на вашем родном языке."
+
+msgid "Please, vizit this page"
+msgstr "Пожалуйста, посетите эту страницу"
