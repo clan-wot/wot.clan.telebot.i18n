@@ -315,14 +315,20 @@ msgstr "Вы можете управлять мной при помощи сле
 msgid "/help - brief info and command list"
 msgstr "/help - краткая информация и список команд"
 
+msgid "/lang - set bot language"
+msgstr "/lang - задать язык бота"
+
 msgid "/check - show suspicious members of the group"
 msgstr "/check - показать подозрительных участников группы"
 
-msgid "/whois - show WG account for members with 'text' in Telegram name"
-msgstr "/whois - показать данные аккаунта Wargaming для участника группы, в имени которого присутствует подстрока 'text'"
-
 msgid "/invite - invite link for new members"
 msgstr "/invite - ссылка для приглашения новых участников в группу"
+
+msgid "Also, you can forward for me message from any user."
+msgstr "Также, вы можете переслать мне сообщение любого пользователя."
+
+msgid "I'll show you Wargaming account data for this user, if i know it."
+msgstr "Я покажу вам данные аккаунта Wargaming этого пользователя, если я их знаю."
 
 msgid "Enter part of name of group member (at least 3 chars)"
 msgstr "Введите часть имени участника группы (3 символа как минимум)"
